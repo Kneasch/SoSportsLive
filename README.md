@@ -7,9 +7,9 @@
 
 
 ## Nick Fennell
-> *Front-End Developer*
+> Primary: *Back-End Developer*
 
-> *Back-End Developer*
+> Secondary: *Front-End Developer*
 
 
 ## Landon Thaler
