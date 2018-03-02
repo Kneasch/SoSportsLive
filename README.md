@@ -20,10 +20,9 @@
 
 ## Andrew Whitely
 
-> *Back-End Developer*
-
 > *UI / UX Developer*
 
+> *Back-End Developer*
 
 ## Project Overview
 
