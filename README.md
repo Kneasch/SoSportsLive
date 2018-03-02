@@ -7,10 +7,12 @@
 
 
 ## Nick Fennell
+> * Co-Founder *
 > *Back-End Developer*
 
 
 ## Landon Thaler
+> * Co-Founder *
 > *Front-End Developer*
 
 
