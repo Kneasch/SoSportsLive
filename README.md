@@ -7,23 +7,22 @@
 
 
 ## Nick Fennell
-> Primary:
-> 
 > *Back-End Developer*
 
-> Secondary: *Front-End Developer*
+> *Front-End Developer*
 
 
 ## Landon Thaler
-> *UI / UX Developer*
-
 > *Front-End Developer*
+
+> *UI / UX Developer*
 
 
 ## Andrew Whitely
-> *Front-End Developer*
 
 > *Back-End Developer*
+
+> *UI / UX Developer*
 
 
 ## Project Overview
