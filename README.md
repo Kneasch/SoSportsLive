@@ -8,6 +8,7 @@
 
 ## Nick Fennell
 > Primary:
+> 
 > *Back-End Developer*
 
 > Secondary: *Front-End Developer*
