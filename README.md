@@ -7,13 +7,14 @@
 
 
 ## Nick Fennell
-> *Co-Founder*
+> *Front-End Developer*
 
 > *Back-End Developer*
 
 
 ## Landon Thaler
-> * Co-Founder *
+> *UI / UX Developer*
+
 > *Front-End Developer*
 
 
