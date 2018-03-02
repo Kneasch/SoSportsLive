@@ -19,7 +19,9 @@
 
 
 ## Andrew Whitely
-> *Flex Developer*
+> *Front-End Developer*
+
+> *Back-End Developer*
 
 
 ## Project Overview
