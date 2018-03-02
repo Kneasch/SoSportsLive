@@ -7,7 +7,7 @@
 
 
 ## Nick Fennell
-> * Co-Founder *
+> *Co-Founder*
 
 > *Back-End Developer*
 
