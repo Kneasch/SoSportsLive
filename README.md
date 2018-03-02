@@ -7,7 +7,8 @@
 
 
 ## Nick Fennell
-> Primary: *Back-End Developer*
+> Primary:
+> *Back-End Developer*
 
 > Secondary: *Front-End Developer*
 
