@@ -8,6 +8,7 @@
 
 ## Nick Fennell
 > * Co-Founder *
+
 > *Back-End Developer*
 
 
