@@ -5,14 +5,18 @@
 
 ## Project Developers
 
+
 ### Nick Fennell
 > *Back-End Developer*
+
 
 ### Landon Thaler
 > *Front-End Developer*
 
+
 #### Andrew Whitely
 > *Flex Developer*
+
 
 ## Project Overview
 
